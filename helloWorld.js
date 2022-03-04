@@ -1,1 +1,2 @@
-console.log("Git is Awesome!")
+var str = prompt("Say something: ")
+console.log("You said: " + str)
